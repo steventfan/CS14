@@ -1,2 +1,2 @@
 # CS14
-Introduction to Data Structures and Algorithms (C++)
+Introduction to Data Structures and Algorithms
